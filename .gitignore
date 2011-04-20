@@ -5,11 +5,6 @@
 /dist/*
 /docs/*
 
-.actionScriptProperties
-.flexProperties
-.flexLibProperties
-.fxpProperties
-.project
 .sourceMate
 .sourceMateMetadataSettings
 setEnv.sh
